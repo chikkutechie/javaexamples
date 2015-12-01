@@ -1,0 +1,7 @@
+include 'common'
+include 'helloretrofit'
+include 'helloretrolambda'
+include 'hellofunctional'
+include 'hellorxjava'
+
+rootProject.name = 'java examples'

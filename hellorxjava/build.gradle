@@ -1,0 +1,9 @@
+apply plugin: 'application'
+
+mainClassName = "com.example.javaexamples.Main"
+version = '1.0'
+
+dependencies {
+    compile project(':common')
+}
+
