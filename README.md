@@ -1,5 +1,5 @@
 # Java examples
-[![Travis-CI](https://travis-ci.org/chikkutechie/javaexamples.svg?branch=master)](https://travis-ci.org/chikkutechie/javaexamples)
+[![Travis-CI](https://travis-ci.org/trsquarelab/javaexamples.svg?branch=master)](https://travis-ci.org/trsquarelab/javaexamples)
 
 Here we got a list of examples of using different java frameworks
 
